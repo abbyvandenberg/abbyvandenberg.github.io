@@ -9,9 +9,12 @@ navbar:
     - text: "GIS Projects"
       icon: fa-pencil
       href: geog13.html
+    - text: "CV"
+      icon: fa-book
+      href: cv.html
   right:
     - icon: fa-github
-      href: https://hithub.com/abbyvandenberg/abbyvandenberg.github.io
+      href: https://github.com/abbyvandenberg/abbyvandenberg.github.io
 output: 
   html_document:
     theme: sandstone

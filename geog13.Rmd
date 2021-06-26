@@ -12,7 +12,7 @@ Here are links to all of the projects I completed this summer (2021) in my GIS c
 
 
 
-#### [1. Building a project website](abbyvandenberg.github.io)
+#### [1. Building a project website](index.html)
 
 -This week I explored the foundations of a website, specifically that a .yml file is required for any website and acts as the map of the site.
 

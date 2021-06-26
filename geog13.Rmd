@@ -1,0 +1,26 @@
+---
+title: "My Projects"
+---
+
+
+<center>
+
+Here are links to all of the projects I completed this summer (2021) in my GIS class. This course was based in R, a programming language entirely new to me. I hope as you navigate through the links below you will be able to see my how skills develop over the course of this class.
+
+</center>
+
+
+
+
+#### [1. Building a project website](abbyvandenberg.github.io)
+
+-This week I explored the foundations of a website, specifically that a .yml file is required for any website and acts as the map of the site.
+
+-I was able to teach myself how to adjust the dimensions of an image, which I know will come in handy as I am always trying to make my projects more artistic. 
+
+-I feel more comfortable creating new projects and directories using the terminal.
+
+-Pushing and committing my work is becoming easier, I enjoy frequently checking my knit html to see how my work is progressing!
+
+
+

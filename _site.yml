@@ -1,0 +1,18 @@
+name: "GIS Portfolio"
+output_dir: "."
+navbar:
+  title: "Abby Vandenberg"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Projects"
+      icon: fa-pencil
+      href: geog13.html
+  right:
+    - icon: fa-github
+      href: https://hithub.com/abbyvandenberg/abbyvandenberg.github.io
+output: 
+  html_document:
+    theme: sandstone
+    

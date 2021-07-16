@@ -24,3 +24,9 @@ Here are links to all of the projects I completed this summer (2021) in my GIS c
 
 
 #### [2. Creating Tables and Faceted Plots based on NY Times COVID-19 Data](lab-02.html)
+
+-This week's lab focused on visualizing COVID-19 data into tables and faceted plots.
+
+-I became more familiar with using knitr to design tables and using different dplyr verbs to manipulate the data.
+
+-I learned how to join data sets and create visually pleasing plots using ggplot(). 

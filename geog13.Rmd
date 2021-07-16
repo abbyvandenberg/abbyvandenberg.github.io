@@ -23,4 +23,4 @@ Here are links to all of the projects I completed this summer (2021) in my GIS c
 -Pushing and committing my work is becoming easier, I enjoy frequently checking my knit html to see how my work is progressing!
 
 
-
+#### [2. Creating Tables and Faceted Plots based on NY Times COVID-19 Data](lab-02.html)

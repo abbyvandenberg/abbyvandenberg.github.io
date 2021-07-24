@@ -30,3 +30,11 @@ Here are links to all of the projects I completed this summer (2021) in my GIS c
 -I became more familiar with using knitr to design tables and using different dplyr verbs to manipulate the data.
 
 -I learned how to join data sets and create visually pleasing plots using ggplot(). 
+
+#### [3. Distances and the Border Zone](lab-03.html)
+
+- This weeks lab involved the 100 mile border zone around the Continental US
+
+
+
+

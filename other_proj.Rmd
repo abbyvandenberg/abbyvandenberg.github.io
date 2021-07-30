@@ -1,5 +1,8 @@
 ---
 title: "Geography W12 Maps & Spatial Reasoning Final Map"
+output: 
+  html_document:
+    theme: journal
 ---
 
 <center>

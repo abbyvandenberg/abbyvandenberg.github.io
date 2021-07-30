@@ -14,6 +14,6 @@ Here is the link to my final map blog post for Geography W12 Maps & Spatial Reas
 
 #### [Click Here to See the Leaflet Map of Some of My Favorite Places](index_lab7.html)
 
-![](map.png){width=800px}
+![](img/map.png){width=800px}
 
 </center>

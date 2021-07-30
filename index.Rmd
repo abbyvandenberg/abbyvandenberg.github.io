@@ -7,10 +7,10 @@ title: "About Me"
 </center> 
 
 <center>
-![](img/headshot.png){width=100px}
+![](img/foil.jpg){width=300px}    ![](img/me2.jpg){width=300px}       ![](img/send.jpg){width=300px}
 
 
-![](img/sendit.png){width=100px}
+
 </center>
 
 

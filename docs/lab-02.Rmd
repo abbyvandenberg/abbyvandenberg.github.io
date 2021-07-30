@@ -1,0 +1,33 @@
+---
+title: "Geography 13"
+author: "[Abby Vandenberg](https://abbyvandenberg.github.io/)"
+subtitle: "Lab 02: Covid-19 Data Analysis"
+output:
+  html_document:
+    theme: journal
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE)
+```
+
+```{r include=FALSE}
+library(tidyverse)
+library(knitr)
+library(readxl)
+library(zoo)
+url = 'https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv'
+covid = read_csv(url)
+head(covid)
+
+
+lab2 = covid %>% 
+  select(county, state, date, cases, deaths) %>% 
+  filter(state == "California") %>% 
+  group_by(county) %>% 
+  mutate(dailynewcases = c(NA, diff(cases))) 
+
+
+```
+
+
